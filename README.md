@@ -2,8 +2,8 @@
 
 This version:
 
-- [DEMO](https://denisecase.github.io/help-app-07/)
-- [SOURCE](https://github.com/denisecase/help-app-07)
+- [DEMO](https://nodawayhelp.github.io/help-app-07/)
+- [SOURCE](https://github.com/nodawayhelp/help-app-07)
 
 Based on winning team:
 
